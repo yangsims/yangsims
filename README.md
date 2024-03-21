@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Simon 
+
+I'm a recent graduate at University of Michigan, and I've previously interned at [Jane Street](https://www.janestreet.com/) and [Belvedere Trading](https://www.belvederetrading.com/).
 
 <!--
 **yangsims/yangsims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
